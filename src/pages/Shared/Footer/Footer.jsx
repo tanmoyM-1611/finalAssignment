@@ -7,7 +7,7 @@ const Footer = () => {
                 <div>
                   
                     <p className='text-3xl font-bold'>Classic School</p>
-                    <p>Explore the world of music!</p>
+                    
                 </div>
                 <div>
                     <span className="footer-title">Contact</span>
