@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Piano 101",
+      "image": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "John Smith",
+      "instructor_email": "johnsmith@example.com",
+      "seats": 20,
+      "price": 50,
+      "total_students": 15,
+      "status": "approved"
+    },
+    {
+      "name": "Guitar Basics",
+      "image": "https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Sarah Johnson",
+      "instructor_email": "sarahjohnson@example.com",
+      "seats": 15,
+      "price": 40,
+      "total_students": 12,
+      "status": "approved"
+    },
+    {
+      "name": "Violin Mastery",
+      "image": "https://images.pexels.com/photos/111287/pexels-photo-111287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Michael Thompson",
+      "instructor_email": "michaelthompson@example.com",
+      "seats": 10,
+      "price": 60,
+      "total_students": 8,
+      "status": "approved"
+    },
+    {
+      "name": "Drums Workshop",
+      "image": "https://images.pexels.com/photos/9644677/pexels-photo-9644677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Emily Davis",
+      "instructor_email": "emilydavis@example.com",
+      "seats": 12,
+      "price": 55,
+      "total_students": 10,
+      "status": "approved"
+    },
+    {
+      "name": "Singing Techniques",
+      "image": "https://images.pexels.com/photos/258732/pexels-photo-258732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "David Wilson",
+      "instructor_email": "davidwilson@example.com",
+      "seats": 18,
+      "price": 45,
+      "total_students": 14,
+      "status": "approved"
+    },
+    {
+      "name": "Bass Guitar Fundamentals",
+      "image": "https://images.pexels.com/photos/165971/pexels-photo-165971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Jessica Lee",
+      "instructor_email": "jessicalee@example.com",
+      "seats": 8,
+      "price": 50,
+      "total_students": 6,
+      "status": "approved"
+    },
+    {
+      "name": "Music Theory 101",
+      "image": "https://images.pexels.com/photos/89909/pexels-photo-89909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Daniel Thompson",
+      "instructor_email": "danielthompson@example.com",
+      "seats": 25,
+      "price": 35,
+      "total_students": 20,
+      "status": "approved"
+    },
+    {
+      "name": "Songwriting Workshop",
+      "image": "https://images.pexels.com/photos/54133/pexels-photo-54133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instructor": "Sophia Roberts",
+      "instructor_email": "sophiaroberts@example.com",
+      "seats": 10,
+      "price": 65,
+      "total_students": 9,
+      "status": "approved"
+    }
+  ]
