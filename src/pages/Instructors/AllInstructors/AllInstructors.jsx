@@ -5,7 +5,7 @@ const AllInstructors = () => {
     const [allInstructors, setAllInstructors] = useState([]);
     
     useEffect(() => {
-        fetch('http://localhost:5000/instructors')
+        fetch('https://finalassignment-server.onrender.com/instructors')
             .then(res => res.json())
             .then(data => {
                 

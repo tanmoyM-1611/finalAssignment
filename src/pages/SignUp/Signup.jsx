@@ -23,7 +23,7 @@ const Signup = () => {
              .then(()=>{
                 const saveUser = {name:data.name, email:data.email}
                 // console.log(saveUser);
-                fetch('http://localhost:5000/users',{
+                fetch('https://finalassignment-server.onrender.com/users',{
                     method: 'POST',
                     headers:{
                         'content-type':'application/json'

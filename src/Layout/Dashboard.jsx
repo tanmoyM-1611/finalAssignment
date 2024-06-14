@@ -10,7 +10,7 @@ const Dashboard = () => {
     console.log(user.email);
     const [role, setRole] = useState('student');
     useEffect(() => {
-        fetch(`http://localhost:5000/users?email=${user.email}`)
+        fetch(`https://finalassignment-server.onrender.com/users?email=${user.email}`)
             .then(res => res.json())
             .then(data => {
                 // console.log(data);

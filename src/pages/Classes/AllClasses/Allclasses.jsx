@@ -5,7 +5,7 @@ const Allclasses = () => {
     const [allclasses, setAllClasses] = useState([]);
     
     useEffect(() => {
-        fetch('http://localhost:5000/classes')
+        fetch('https://finalassignment-server.onrender.com/classes')
             .then(res => res.json())
             .then(data => {
                 
