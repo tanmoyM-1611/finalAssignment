@@ -18,7 +18,7 @@ const FeedBack = () => {
                             <Bounce>
                                 <img className='h-[100px] w-[100px] rounded-full' src="person1.jpg" alt="" />
                             </Bounce>
-                            <Fade delay={1e3}><p className=" font-bold text-white">Best Best $ Best.</p></Fade>
+                            <Fade delay={1e3}><p className=" font-bold text-white">Best Best & Best.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim dolorum sed eaque, voluptatem fugiat ea voluptate iste earum repudiandae iure hic neque quidem cumque ab excepturi officia omnis numquam libero.</p></Fade>
                         </div>
 
                     </div>
@@ -27,7 +27,7 @@ const FeedBack = () => {
                             <Bounce>
                                 <img className='h-[100px] w-[100px] rounded-full' src="person2.jpg" alt="" />
                             </Bounce>
-                            <Fade delay={1e3}><p className=" font-bold text-white">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim dolorum sed eaque, voluptatem fugiat ea voluptate iste earum repudiandae iure hic neque quidem cumque ab excepturi officia omnis numquam libero..</p></Fade>
+                            <Fade delay={1e3}><p className=" font-bold text-white">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim dolorum sed eaque, voluptatem fugiat ea voluptate iste earum repudiandae iure hic neque quidem cumque ab excepturi officia omnis numquam libero.</p></Fade>
                         </div>
 
                     </div>
