@@ -5,8 +5,8 @@ const Footer = () => {
         <footer className='mt-8'>
             <div className="footer p-10 bg-base-200 text-base-content">
                 <div>
-                   <img className='w-[80px] h-[80px]' src="pngwing.com.png" alt="" />
-                    <p className='text-3xl font-bold'>Summer Camp Music School</p>
+                  
+                    <p className='text-3xl font-bold'>Classic School</p>
                     <p>Explore the world of music!</p>
                 </div>
                 <div>

@@ -25,10 +25,10 @@ const Navbar = () => {
                     </ul>
                 </div>
                 
-                   <img className='w-[80px] h-[80px]' src="pngwing.com.png" alt="" />
+                   
                   <div className='flex flex-col gap-y-3'>
-                  <Link className=" normal-case text-3xl font-bold ms-0 ps-0">Summer Camp Music School</Link>
-                    <p>Explore the world of music!</p>
+                  <Link className=" normal-case text-3xl font-bold ms-0 ps-0">Classic School</Link>
+                    
                   </div>
             
                 
