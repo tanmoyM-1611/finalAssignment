@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
             <div className="footer footer-center p-4 bg-base-300 text-base-content">
                 <div>
-                    <p>Copyright © 2023 - All right reserved by Summer Camp Music School</p>
+                    <p>Copyright © 2024 - All right reserved by Classic School</p>
                 </div>
             </div>
         </footer>
